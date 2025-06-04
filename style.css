@@ -56,26 +56,6 @@
         color: #fff;
         line-height: 1.8;
     }
-    .round {
-        position: absolute;
-        top: 50%;
-        left: 40%;
-        width: 50px;
-        height: 20px;
-        background-color: red;
-        border-radius: 99px;
-    }
-    .round p {
-        position: absolute;
-        opacity: 0%;
-        width: 50px;
-        top: -30px;
-        right: -50px;
-        color: #fff;
-    }
-    .round:hover p {
-        opacity: 100%;
-    }
         /* 이미지 컨테이너 */
     .container {
         position: relative;
